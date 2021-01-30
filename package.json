@@ -1,23 +1,15 @@
 {
-  "name": "simplefolio",
+  "name": "Rajae-Robinson-Portfolio",
   "version": "1.0.1",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "Portfolio website for Rajae Robinson",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js --open",
     "build": "webpack --config webpack.prod.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
-  },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Rajae Robinson",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
-  },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.6.0",
